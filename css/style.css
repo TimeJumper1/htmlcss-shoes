@@ -47,13 +47,13 @@ img{
 /* text elements */
 .position h2{
     color: yellow;
-    font-size: 80px;
+    font-size: 50px;
     text-align: center;
 }
 /* not common standard element */
 .position .scritta-scarpa3{
     color: green;
-    font-size: 80px;
+    font-size: 50px;
     text-align: center;
 }
 /* different section background color */
