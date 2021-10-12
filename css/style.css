@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Rubik Mono One;
 }
 /* menu position */
 .menu{
@@ -26,6 +27,7 @@
     line-height: 30px;
     width: 30px;
     height: 30px;
+    text-align: center;
 }
 /* background */
 .scarpa{
