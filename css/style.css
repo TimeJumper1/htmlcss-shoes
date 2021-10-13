@@ -5,6 +5,9 @@
     box-sizing: border-box;
     font-family: 'Rubik Mono One';
 }
+html{
+    scroll-behavior: smooth;
+}
 /* menu position */
 .menu{
     position: fixed;
